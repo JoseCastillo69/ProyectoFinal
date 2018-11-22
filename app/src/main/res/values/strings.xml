@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GestInv</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GestInv</string>
+    <string name="nav_header_subtitle">Gestión y Control de Inventarios</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo_agregar">AGREGAR PRODUCTO</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Tipo</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="error_ID">ID NO VALIDO</string>
+    <string name="error_nombre">Nombre NO VALIDO</string>
+    <string name="error_tipo">Tipo NO VALIDO</string>
+    <string name="error_cantidad">Cantidad NO VALIDA</string>
+    <string name="error_f">Por favor seleccione una foto</string>
+    <string name="guardadoE">"Producto Guardado Exitosamente"</string>
+    <string name="datos">Datos del Producto</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="titulo_eliminar">Eliminar</string>
+    <string name="mensaje_eliminar">¿Esta seguro que desea ELIMINAR esta producto?</string>
+    <string name="todo">TODO</string>
+
+</resources>
